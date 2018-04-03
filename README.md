@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Nazywam się Piotr Wionczyk i mieszkam w Bełchatowie.
